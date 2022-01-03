@@ -1,3 +1,8 @@
+# Form
+
+- [Formik](https://formik.org/docs/overview) with [Yup](https://www.npmjs.com/package/yup#api)
+- [React Hook Form](https://react-hook-form.com/get-started) with [Yup](https://www.npmjs.com/package/yup#api)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
