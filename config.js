@@ -8,8 +8,8 @@ export const users = [
   },
   {
     id: 2,
-    name: 'brasilina',
-    email: 'brasilina@hotmail.com',
+    name: 'Felix',
+    email: 'felix@hotmail.com',
     uf: 'SP',
     subscribe: true,
   },
